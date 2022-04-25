@@ -1,7 +1,7 @@
 # Hallo ich bin Tizian! 👋
-Ich erstelle einiges, von FiveM scripts bis zu designs von Profilbildern und Profilbannern.
+Ich programmiere und designe sehr gerne und viel.
 
-Projete anfragen kann man zur zeit erstmal nur per direktnachricht auf instagram oder einfach im Twitch stream nachfragen.
+Ich habe mir vorgenommen mein können zum guten von anderen zu nutzen und habe [hier]()
 
 ## 🔗 Links
 
