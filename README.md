@@ -11,7 +11,7 @@ Ich habe mir vorgenommen mein können zum guten von anderen zu nutzen und habe [
 <a href="https://www.twitch.tv/tijay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="twitch" height="40" width="40" /></a><br>
 [Zusammengefast](https://direct.me/tijay006)
 
-## 🛠 Was ich nutze
+## 🛠 Was ich kann
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Automation/ifttt.svg" alt="ifttt" height="70" width="70" /></a>
 <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" height="40" width="40" /></a>
 <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mariadb.svg" alt="mariadb" height="40" width="40" /></a>
